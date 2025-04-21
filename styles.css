@@ -213,7 +213,7 @@ button {
   }
 
   #grid {
-    width: 100%;
+    max-width: 100%;
     display: grid;
     gap: 24px;
     padding: 174px 40px;
@@ -274,7 +274,7 @@ button {
   }
 
   #grid {
-    width: 1116px;
+    max-width: 1116px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 255px 1fr;
